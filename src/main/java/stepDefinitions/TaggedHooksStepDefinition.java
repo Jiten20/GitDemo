@@ -43,6 +43,7 @@ public class TaggedHooksStepDefinition {
 	@Before("@Second")
 	public void beforeSecond(){
 		System.out.println("before only second scenario");
+		System.out.println("okay");
 	}
 	
 	@After("@Second")
