@@ -1,3 +1,4 @@
+//Deals data creation
 Feature: Deal data creation
 
 Scenario: Free CRM Create a new deal scenario
