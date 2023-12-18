@@ -1,5 +1,5 @@
 Feature: Deal data creation 
-
+//added a new scenario
 Scenario: Free CRM Create a new deal scenario 
 
 	Given user is already on Login Page 
