@@ -1,5 +1,5 @@
 @FunctionalTest123
-Feature: Free CRM application testing
+Feature: Free CRM application testing234
 
 @SmokeTest @RegressionTest
 Scenario: Login with correct username and correct password
