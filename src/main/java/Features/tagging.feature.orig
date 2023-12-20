@@ -1,4 +1,6 @@
+<<<<<<< HEAD
 @FunctionalTest
+@FunctionalTest123456
 Feature: Free CRM application testing
 
 @SmokeTest @RegressionTest
@@ -73,7 +75,9 @@ Scenario: browser closed
 Given This is a close broswer test
 
 
-
+=======
+@FunctionalTest123
+Feature: Free CRM application testing234
 
 @SmokeTest @RegressionTest
 Scenario: Login with correct username and correct password
@@ -147,3 +151,4 @@ Scenario: browser closed
 Given This is a close broswer test
 
 
+>>>>>>> origin/added_a_line
