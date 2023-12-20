@@ -1,4 +1,5 @@
 @FunctionalTest
+@FunctionalTest123456
 Feature: Free CRM application testing
 
 @SmokeTest @RegressionTest
